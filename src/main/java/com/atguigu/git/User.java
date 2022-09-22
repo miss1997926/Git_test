@@ -11,5 +11,6 @@ public class User {
         System.out.println("git ...");
         System.out.println("git ...");
         System.out.println("git ...");
+        System.out.println("hot fix test ...");
     }
 }
